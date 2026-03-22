@@ -2,15 +2,20 @@
 
 Simple script to clean up strings with currently three options:
 
+
+
 1 - keep only letters
 
 2 - keep only numbers
 
 3 - keep only letters and numbers
 
+</br>
+<sup>It was designed to be used in corporate context, for example, filling up a form with an adress.</sup>
+
 Example 1:
 -
-`Hi#, th1is is4 m97e!` > `Hi this is me` (it was designed to be used in corporate context, like filling up a form with an adress) 
+`Hi#, th1is is4 m97e!` > `Hi this is me`
 
 Example 2:
 -
